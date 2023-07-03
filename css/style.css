@@ -1,0 +1,99 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:bordar-box;
+}
+
+.contaner{
+		width:100%;
+		border-color:red;
+		
+		
+}
+.row {
+		display:flex;
+		
+}
+.col{
+	width:50%;
+	padding:20px;
+	
+}
+img{
+		border-radius:80px 80px;
+		padding:50px;
+		margin:auto;
+}
+
+	
+	
+
+.card p{
+	font-size:20px;
+	padding:30px;
+}
+.card{
+	font-size:30px;
+	text-align:center;
+	
+	
+}
+a{
+	font-size:50px;
+	padding:20px;
+	text-decoration:none;
+}
+#plkm{ 
+		
+		width:100%;
+		display:flex;
+		padding:30px;
+		height:30px;
+}
+#pol{
+	width:100%;
+	display:flex;
+	padding:20px;
+	height:30px;
+}
+.col1{padding:20px;}
+.col2{padding:20px;}
+.card2{padding:20px;}
+#plkm{
+	text-align:center;
+	
+	padding:20px;
+	/*background-color:red;*/
+}
+#prabha{text-align:center;}
+#but{
+	text-align:center;
+	padding:40px;
+	
+	
+}
+
+button{
+	padding:10px 20px 10px 20px;
+	text-transform:capitalize;
+	background-color:#d2d6b8;
+	border-radius:10px 10px;
+	color:#ffffff;
+}
+input {text-decoration:capitalize;}
+h1 { 
+	font-size:50px;
+	color:#2a28a1;
+	text-align:center;
+}
+input {
+		padding:10px;
+		height:10px;
+		margin:20px;	
+}
+#karan input {
+		
+		padding:10px;
+		margin:30px;
+		margin-left:40px;
+		}
